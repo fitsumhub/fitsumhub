@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Web Development: HTML, CSS, JavaScript, React ⚛️ MERN Stack Development: MongoDB, Express.js, React, Node.js 📱 App Development: Building modern, responsive, and user-friendly apps ✍️ Content Creation: Crafting engaging content for my YouTube channel and beyond 🖋️ Copywriting: Writing impactful copy to captivate audiences</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/3o7aD4ocrVCicriPFe/giphy.gif" width="500" alt="Coding Male GIF" />
 </p>
 
 <p align="left"> 
@@ -20,7 +20,7 @@
 - ✉️ Reach me at: FitsumEnunu21@gmail.com  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer GIF" />
+  <img src="https://media.giphy.com/media/l3q2Ip8z7c75uGBry/giphy.gif" width="400" alt="Male Developer GIF" />
 </p>
 
 ---
@@ -93,7 +93,6 @@
 I love combining **technology, creativity, and teaching**—whether it's crafting engaging YouTube videos, simplifying programming concepts, or writing impactful content!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Fun GIF" />
+  <img src="https://media.giphy.com/media/9rj9q6o6U7LtqQrxkN/giphy.gif" width="400" alt="Fun Male GIF" />
 </p>
- 
 
