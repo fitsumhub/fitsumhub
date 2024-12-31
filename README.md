@@ -1,4 +1,9 @@
+<h1 align="center">Hi 👋, I'm Fitsum Enunu</h1>
 <h3 align="center">🌐 Web Development: HTML, CSS, JavaScript, React ⚛️ MERN Stack Development: MongoDB, Express.js, React, Node.js 📱 App Development: Building modern, responsive, and user-friendly apps ✍️ Content Creation: Crafting engaging content for my YouTube channel and beyond 🖋️ Copywriting: Writing impactful copy to captivate audiences</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" alt="Coding GIF" />
+</p>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=fitsumhub&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhub" /> 
@@ -6,27 +11,21 @@
 
 ---
 
-### 🔭 Current Focus  
-- 🚀 I’m currently working on [A+ ETHIOPIA](https://www.youtube.com/@AplusEthiopia), where I create impactful and educational content for my audience.  
-- 🌱 Exploring **Flutter** to build high-performance cross-platform apps.  
-- 📝 Writing articles on [TECH AND CRYPTO](TECH AND CRYPTO).  
+### 🌟 About Me  
+- 🔭 I’m **Fitsum Enunu**, a passionate developer, content creator, and teacher with a mission to inspire and educate!  
+- 🚀 Currently working on [A+ ETHIOPIA](https://www.youtube.com/@AplusEthiopia), where I share knowledge with my 50k+ subscribers.  
+- 🌱 Learning **Flutter** to develop high-performance cross-platform apps.  
+- 📝 Writing about **Tech and Crypto** on [TECH AND CRYPTO](TECH AND CRYPTO).  
+- 💬 Ask me about **Python**, **JavaScript**, and **MERN stack development**.  
+- ✉️ Reach me at: FitsumEnunu21@gmail.com  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Developer GIF" />
+</p>
 
 ---
 
-### 💬 Ask Me About  
-- 💻 **Programming**: Python, JavaScript, React, and the MERN Stack.  
-- 🧑‍🏫 **Teaching**: I love simplifying complex coding concepts for learners.  
-- 💡 **Content Creation**: Tips for creating engaging videos and articles.  
-
----
-
-### 📫 How to Reach Me  
-- ✉️ Email: FitsumEnunu21@gmail.com  
-- 🌍 YouTube: [A+ Ethiopia](https://www.youtube.com/@AplusEthiopia)  
-
----
-
-<h3 align="left">🌟 Connect With Me:</h3>
+<h3 align="left">🌐 Connect With Me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/c/@aplusethiopia" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@aplusethiopia" height="30" width="40" />
@@ -92,4 +91,9 @@
 
 ### 🌟 Fun Fact  
 I love combining **technology, creativity, and teaching**—whether it's crafting engaging YouTube videos, simplifying programming concepts, or writing impactful content!  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" alt="Fun GIF" />
+</p>
+ 
 
