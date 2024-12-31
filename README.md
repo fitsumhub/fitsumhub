@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fitsum Enunu</h1>
-<h3 align="center">🌐 Web Development: HTML, CSS, JavaScript, React ⚛️ MERN Stack Development: MongoDB, Express.js, React, Node.js 📱 App Development: Building modern, responsive, and user-friendly apps ✍️ Content Creation: Crafting engaging content for my YouTube channel and beyond 🖋️ Copywriting: Writing impactful copy to captivate audiences</h3>
+<h3 align="center">🌟 Full-Stack Developer | Content Creator | Tech Enthusiast 🌟</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD4ocrVCicriPFe/giphy.gif" width="500" alt="Coding Male GIF" />
-</p>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=fitsumhub&label=Profile%20views&color=0e75b6&style=flat" alt="fitsumhub" /> 
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Male GIF" />
 </p>
 
 ---
@@ -17,10 +13,10 @@
 - 🌱 Learning **Flutter** to develop high-performance cross-platform apps.  
 - 📝 Writing about **Tech and Crypto** on [TECH AND CRYPTO](TECH AND CRYPTO).  
 - 💬 Ask me about **Python**, **JavaScript**, and **MERN stack development**.  
-- ✉️ Reach me at: FitsumEnunu21@gmail.com  
+- ✉️ Reach me at: **FitsumEnunu21@gmail.com**  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l3q2Ip8z7c75uGBry/giphy.gif" width="400" alt="Male Developer GIF" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="Web Development GIF" />
 </p>
 
 ---
@@ -74,6 +70,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="300" alt="Developer at Work GIF" />
+</p>
+
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
@@ -93,6 +93,7 @@
 I love combining **technology, creativity, and teaching**—whether it's crafting engaging YouTube videos, simplifying programming concepts, or writing impactful content!  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9rj9q6o6U7LtqQrxkN/giphy.gif" width="400" alt="Fun Male GIF" />
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" alt="Fun Male GIF" />
 </p>
+
 
